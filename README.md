@@ -49,9 +49,6 @@ The model was trained for 75 epochs with 60 steps per epoch. The following are s
 
 ![Screenshot from 2019-12-22 14-38-11](https://user-images.githubusercontent.com/47391270/71446932-e029f580-274e-11ea-9492-69201170db54.png)
 
-![Screenshot from 2019-12-22 14-42-57](https://user-images.githubusercontent.com/47391270/71446952-1bc4bf80-274f-11ea-8fad-b556ec07ff31.png)
-
-![Screenshot from 2019-12-22 14-48-01](https://user-images.githubusercontent.com/47391270/71446953-2a12db80-274f-11ea-8528-aeb71a4f9e7a.png)
 
 ### Requirements:
 *numpy
@@ -74,4 +71,3 @@ The model was trained for 75 epochs with 60 steps per epoch. The following are s
 3. https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/
 4. https://towardsdatascience.com/computer-vision-instance-segmentation-with-mask-r-cnn-7983502fcad1
 5. https://towardsdatascience.com/instance-segmentation-using-mask-r-cnn-7f77bdd46abd
-# Instance-Segmenation-using-Mask-R-CNN
